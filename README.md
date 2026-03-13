@@ -24,8 +24,9 @@ This project is an AI-powered customer support assistant for e-commerce, with sh
 1. **Install dependencies**
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements-full.txt
    ```
+   (Use `requirements.txt` only for the Streamlit frontend; use `requirements-full.txt` for the full stack including the Flask API.)
 
 2. **Prepare data**
 
